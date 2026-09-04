@@ -1,0 +1,1128 @@
+{
+  "/": {
+    "title": "Van Eck Photography",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H1",
+        "text": "Welcome to Van Eck Photography"
+      },
+      {
+        "tag": "H3",
+        "text": "See My Work"
+      },
+      {
+        "tag": "H2",
+        "text": "Weddings"
+      },
+      {
+        "tag": "H2",
+        "text": "Engagements"
+      },
+      {
+        "tag": "H2",
+        "text": "Events & Others"
+      },
+      {
+        "tag": "H6",
+        "text": "FOLLOW ME ON INSTAGRAM"
+      },
+      {
+        "tag": "H5",
+        "text": "@vaneck.photography"
+      },
+      {
+        "tag": "H1",
+        "text": "Write a Review"
+      }
+    ],
+    "paragraphs": [
+      "Capturing your special moments brings me the greatest joy!",
+      "I'd love to hear back from you - tell me how your experience was!",
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-photo page-block block-container--flushed-top-on-first-rank ca-background-2M5862",
+        "text": "",
+        "images": [
+          "assets/images/home/VEPWebsiteBanner2-f4621480-1500.png"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gaKJ4B",
+        "text": "Welcome to Van Eck Photography Capturing your special moments brings me the greatest joy!",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gaKJ4B",
+        "text": "SEE MY WORK",
+        "images": []
+      },
+      {
+        "className": "block-container block-feature-links-multiple-photos page-block ca-background-N4mDLg",
+        "text": "Weddings Engagements Events & Others",
+        "images": [
+          "assets/images/home/IMG_0402-d1ff3f06-1500.jpg",
+          "assets/images/home/IMG_2161-f901c137-1500.jpg",
+          "assets/images/home/afed97fcd38de4333e5dee9eb7e044bc-cfd7a051-1500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-button page-block ca-background-gGJOMN",
+        "text": "SEE MORE GALLERIES",
+        "images": []
+      },
+      {
+        "className": "block-container block-instagram-graph page-block ca-background-B84YDB",
+        "text": "FOLLOW ME ON INSTAGRAM @VANECK.PHOTOGRAPHY",
+        "images": [
+          "assets/images/home/787666423_18067938929769924_6454829540925574932_n.jpg",
+          "assets/images/home/755296829_18063025403769924_5822970861478540523_n.jpg",
+          "assets/images/home/745314012_18060894809769924_6486739976465174264_n.jpg",
+          "assets/images/home/742997773_18060260966769924_3781996579917530039_n.jpg",
+          "assets/images/home/746028268_18060244226769924_9020534430944735964_n.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-contact-form-with-text page-block ca-background-BKdYjN",
+        "text": "Write a Review I'd love to hear back from you - tell me how your experience was! YOUR NAME * REVIEW * SUBMIT REVIEW",
+        "images": []
+      },
+      {
+        "className": "block-container block-spacer page-block ca-background-gmWzPB",
+        "text": "",
+        "images": []
+      },
+      {
+        "className": "block-container block-spacer page-block ca-background-gmWzPB",
+        "text": "",
+        "images": []
+      }
+    ]
+  },
+  "/about/": {
+    "title": "About",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H2",
+        "text": "Hello! I'm Catelyn."
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 7"
+      }
+    ],
+    "paragraphs": [
+      "I am a follower of Christ, a wife to Johan, and a mother to the sweetest boy. Being behind the lens - capturing the essence of who you and your loved ones are - brings me the greatest joy and fulfilment!",
+      "I've lived all around South Africa. From Pretoria, a hut in the Wild Coast, all the way to the most southern tip of Africa. Currently, we are based in Bloemfontein, but don't mind travelling!",
+      "I have a natural and warm photography style that is a mix of candid, photojournalism-style moments and posed photos. So don't worry about feeling awkward in front of the camera - I've got your back!",
+      "I value relationships, so I hope to be there to capture more than just one of your special events.",
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-photo-with-text-horizontal page-block ca-background-g3KQdg",
+        "text": "Hello! I'm Catelyn. I am a follower of Christ, a wife to Johan, and a mother to the sweetest boy. Being behind the lens - capturing the essence of who you and your loved ones are - brings me the greatest joy and fulfilment! I've lived all around South Africa. From Pretoria, a hut in the Wild Coast, all the way to the most southern tip of Africa. Currently, we are based in Bloemfontein, but don't mind travelling! I have a natural and warm photography style that is a mix of candid, photojournalism-style moments and posed photos. So don't worry about feeling awkward in front of the camera - I've got your back! I value relationships, so I hope to be there to capture more than just one of your special events.",
+        "images": [
+          "assets/images/about/IMG_5682-e1e427bd-1500.JPG"
+        ]
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 7",
+        "images": [
+          "assets/images/about/IMG_0721-d55c63d9-2500.jpg",
+          "assets/images/about/IMG_2644-97d7eef9-2500.jpg",
+          "assets/images/about/EsmerayPhotography-610-df13f91d-2500.jpg",
+          "assets/images/about/EsmerayPhotography-161-7ed6bf0d-2500.jpg",
+          "assets/images/about/IMG_0519-3eee55fc-2500.JPEG",
+          "assets/images/about/IMG_0201-8ed25a2f-2500.JPEG",
+          "assets/images/about/IMG_0708-749925c9-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-button page-block ca-background-gGJOMN",
+        "text": "CONTACT ME",
+        "images": []
+      }
+    ]
+  },
+  "/price-list/": {
+    "title": "Price List",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "2024"
+      },
+      {
+        "tag": "H1",
+        "text": "Price List"
+      },
+      {
+        "tag": "H1",
+        "text": "Price List & Wedding Packages"
+      },
+      {
+        "tag": "H2",
+        "text": "2026 Price list"
+      }
+    ],
+    "paragraphs": [
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "Price List & Wedding Packages",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "2026 Price list",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-photo page-block block-container--flushed-top-on-first-rank ca-background-2M5862",
+        "text": "",
+        "images": [
+          "assets/images/price-list/WebsitePriceList-f596744c-1500.png"
+        ]
+      }
+    ]
+  },
+  "/portfolio/": {
+    "title": "Portfolio",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H2",
+        "text": "Weddings"
+      },
+      {
+        "tag": "H5",
+        "text": "to have and to hold"
+      },
+      {
+        "tag": "H2",
+        "text": "Engagements"
+      },
+      {
+        "tag": "H5",
+        "text": "yes to forever"
+      },
+      {
+        "tag": "H2",
+        "text": "Couples"
+      },
+      {
+        "tag": "H5",
+        "text": "can't be without you"
+      },
+      {
+        "tag": "H2",
+        "text": "Families"
+      },
+      {
+        "tag": "H5",
+        "text": "born to be together"
+      },
+      {
+        "tag": "H2",
+        "text": "Kitchen teas, Events, Graduations & Other"
+      },
+      {
+        "tag": "H5",
+        "text": "let's celebrate"
+      }
+    ],
+    "paragraphs": [
+      "The most important part when I take your photos is that you are comfortable and 100% yourself.",
+      "If being in front of the camera is not your second nature - don't worry. It's part of my role to guide you all the way!",
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "The most important part when I take your photos is that you are comfortable and 100% yourself. If being in front of the camera is not your second nature - don't worry. It's part of my role to guide you all the way!",
+        "images": []
+      },
+      {
+        "className": "block-container block-feature-listing page-block ca-background-g3KXqg",
+        "text": "Weddings TO HAVE AND TO HOLD Engagements YES TO FOREVER Couples CAN'T BE WITHOUT YOU Families BORN TO BE TOGETHER Kitchen teas, Events, Graduations & Other LET'S CELEBRATE",
+        "images": [
+          "assets/images/portfolio/IMG_9930-f8865fe4-1500.jpg",
+          "assets/images/portfolio/IMG_9128-72ef62bd-1500.jpg",
+          "assets/images/portfolio/IMG_4799-5736f5f2-1500.jpg",
+          "assets/images/portfolio/IMG_3550-6a45c81f-1500.jpg",
+          "assets/images/portfolio/IMG_6077-c42c304c-1500.jpg"
+        ]
+      }
+    ]
+  },
+  "/wedding/": {
+    "title": "Wedding",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H1",
+        "text": "Weddings"
+      },
+      {
+        "tag": "H3",
+        "text": "Kaylin & Alonzo"
+      },
+      {
+        "tag": "H5",
+        "text": "cape town"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 12"
+      },
+      {
+        "tag": "H3",
+        "text": "sarah & junaid"
+      },
+      {
+        "tag": "H5",
+        "text": "stellenbosch"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 20"
+      }
+    ],
+    "paragraphs": [
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "Weddings",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gaKJ4B",
+        "text": "KAYLIN & ALONZO CAPE TOWN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 12",
+        "images": [
+          "assets/images/wedding/IMG_0405-0c38b9eb-2500.jpg",
+          "assets/images/wedding/IMG_0482-37deea02-2500.jpg",
+          "assets/images/wedding/IMG_9812-75556722-2500.jpg",
+          "assets/images/wedding/IMG_9930-2627a3c1-2500.jpg",
+          "assets/images/wedding/IMG_9953-d4902132-2500.jpg",
+          "assets/images/wedding/IMG_0013-0d8cf0b9-2500.jpg",
+          "assets/images/wedding/IMG_9975-87e2e5d1-2500.jpg",
+          "assets/images/wedding/IMG_0205-5efe345a-2500.jpg",
+          "assets/images/wedding/IMG_0262-db5c6649-2500.jpg",
+          "assets/images/wedding/IMG_0174-ac49b6a9-2500.jpg",
+          "assets/images/wedding/IMG_0317-29ebe4ba-2500.jpg",
+          "assets/images/wedding/IMG_0402-c56968f1-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "SARAH & JUNAID STELLENBOSCH",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 20",
+        "images": [
+          "assets/images/wedding/IMG_5578-0e8d6be2-2500.jpg",
+          "assets/images/wedding/IMG_5846-25172714-2500.jpg",
+          "assets/images/wedding/IMG_5023-0a5567de-2500.jpg",
+          "assets/images/wedding/IMG_5020-f8e2e52d-2500.jpg",
+          "assets/images/wedding/IMG_5069-5927a33d-2500.jpg",
+          "assets/images/wedding/IMG_5153-8e437c9f-2500.jpg",
+          "assets/images/wedding/IMG_5202-7cf4fe6c-2500.jpg",
+          "assets/images/wedding/IMG_5471-f6b197b3-2500.jpg",
+          "assets/images/wedding/IMG_5240-5774d1a3-2500.jpg",
+          "assets/images/wedding/IMG_5424-04061540-2500.jpg",
+          "assets/images/wedding/IMG_5569-468d9860-2500.jpg",
+          "assets/images/wedding/IMG_5975-f77c8576-2500.jpg",
+          "assets/images/wedding/IMG_5969-56b9c366-2500.jpg",
+          "assets/images/wedding/IMG_5952-a40e4195-2500.jpg",
+          "assets/images/wedding/IMG_5976-b87648bd-2500.jpg",
+          "assets/images/wedding/IMG_5999-f617f6b8-2500.jpg",
+          "assets/images/wedding/IMG_6023-b3bdb54f-2500.jpg",
+          "assets/images/wedding/IMG_5373-dc1679ac-2500.jpg",
+          "assets/images/wedding/IMG_5552-2ea1fb5f-2500.jpg",
+          "assets/images/wedding/IMG_5520-fc3ae911-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-divider page-block ca-background-N4m3Kg",
+        "text": "",
+        "images": []
+      }
+    ]
+  },
+  "/engagement/": {
+    "title": "Engagement",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H1",
+        "text": "Engagements"
+      },
+      {
+        "tag": "H3",
+        "text": "Ryno & Ansuné"
+      },
+      {
+        "tag": "H5",
+        "text": "gordon's bay"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 14"
+      },
+      {
+        "tag": "H3",
+        "text": "heino & inke"
+      },
+      {
+        "tag": "H5",
+        "text": "franschoek"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 20"
+      },
+      {
+        "tag": "H3",
+        "text": "jacques & colene"
+      },
+      {
+        "tag": "H5",
+        "text": "stellenbosch"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 22"
+      }
+    ],
+    "paragraphs": [
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "Engagements",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "RYNO & ANSUNÉ GORDON'S BAY",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 14",
+        "images": [
+          "assets/images/engagement/IMG_2359-f80c9a52-1000.jpg",
+          "assets/images/engagement/IMG_2406-578b40ed-1000.jpg",
+          "assets/images/engagement/IMG_2143-ab6e681a-1000.jpg",
+          "assets/images/engagement/IMG_2316-4be3561c-1000.jpg",
+          "assets/images/engagement/IMG_2304-ea26100c-1000.jpg",
+          "assets/images/engagement/IMG_2148-0aab2e0a-1000.jpg",
+          "assets/images/engagement/IMG_2163-59d9eae9-1000.jpg",
+          "assets/images/engagement/IMG_2182-7c0ab7b8-1000.jpg",
+          "assets/images/engagement/IMG_2221-8ebd354b-1000.jpg",
+          "assets/images/engagement/IMG_2223-d9380129-1000.jpg",
+          "assets/images/engagement/IMG_2251-e9f5d391-1000.jpg",
+          "assets/images/engagement/IMG_2278-c1b7d1f2-1000.jpg",
+          "assets/images/engagement/IMG_2335-ba871772-1000.jpg",
+          "assets/images/engagement/IMG_2338-0abb18a1-1000.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "HEINO & INKE FRANSCHOEK",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 20",
+        "images": [
+          "assets/images/engagement/IMG_1725-52d38e10-1000.jpg",
+          "assets/images/engagement/IMG_1734-a0640ce3-1000.jpg",
+          "assets/images/engagement/IMG_1356-53600307-1000.jpg",
+          "assets/images/engagement/IMG_1374-16ca40f0-1000.jpg",
+          "assets/images/engagement/IMG_1408-d68c9b29-1000.jpg",
+          "assets/images/engagement/IMG_1413-243b19da-1000.jpg",
+          "assets/images/engagement/IMG_1446-d6d7c50b-1000.jpg",
+          "assets/images/engagement/IMG_1422-246047f8-1000.jpg",
+          "assets/images/engagement/IMG_1454-85a501e8-1000.jpg",
+          "assets/images/engagement/IMG_1459-7712831b-1000.jpg",
+          "assets/images/engagement/IMG_1472-52c1de4a-1000.jpg",
+          "assets/images/engagement/IMG_1498-a0765cb9-1000.jpg",
+          "assets/images/engagement/IMG_1570-222d48a9-1000.jpg",
+          "assets/images/engagement/IMG_1538-86b849a7-1000.jpg",
+          "assets/images/engagement/IMG_1581-740fcb54-1000.jpg",
+          "assets/images/engagement/IMG_1585-c433c487-1000.jpg",
+          "assets/images/engagement/IMG_1680-2-36844674-1000.jpg",
+          "assets/images/engagement/IMG_1656-97410064-1000.jpg",
+          "assets/images/engagement/IMG_1702-f7e13881-1000.jpg",
+          "assets/images/engagement/IMG_1722-0556ba72-1000.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "JACQUES & COLENE STELLENBOSCH",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 22",
+        "images": [
+          "assets/images/engagement/IMG_3600-e591f75f-1000.jpg",
+          "assets/images/engagement/IMG_3602-172675ac-1000.jpg",
+          "assets/images/engagement/IMG_3316-2-2537b4d3-1000.jpg",
+          "assets/images/engagement/IMG_3302-950bbb00-1000.jpg",
+          "assets/images/engagement/IMG_3339-67bc39f3-1000.jpg",
+          "assets/images/engagement/IMG_3341-c6797fe3-1000.jpg",
+          "assets/images/engagement/IMG_3414-34cefd10-1000.jpg",
+          "assets/images/engagement/IMG_3397-111da041-1000.jpg",
+          "assets/images/engagement/IMG_3439-2-683a5c60-1000.jpg",
+          "assets/images/engagement/IMG_3427-9a8dde93-1000.jpg",
+          "assets/images/engagement/IMG_3448-2ab1d140-1000.jpg",
+          "assets/images/engagement/IMG_3450-d80653b3-1000.jpg",
+          "assets/images/engagement/IMG_3457-79c315a3-1000.jpg",
+          "assets/images/engagement/IMG_3476-8b749750-1000.jpg",
+          "assets/images/engagement/IMG_3488-36b01104-1000.jpg",
+          "assets/images/engagement/IMG_3524-97755714-1000.jpg",
+          "assets/images/engagement/IMG_3519-65c2d5e7-1000.jpg",
+          "assets/images/engagement/IMG_3526-401188b6-1000.jpg",
+          "assets/images/engagement/IMG_3530-b2a60a45-1000.jpg",
+          "assets/images/engagement/IMG_3556-2-e5233e27-1000.jpg",
+          "assets/images/engagement/IMG_3551-a71a7a7f-1000.jpg",
+          "assets/images/engagement/IMG_3567-55adf88c-1000.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-divider page-block ca-background-BKdJYN",
+        "text": "",
+        "images": []
+      }
+    ]
+  },
+  "/fashion/": {
+    "title": "Couples",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H1",
+        "text": "Couples"
+      },
+      {
+        "tag": "H3",
+        "text": "izak & rochelle"
+      },
+      {
+        "tag": "H5",
+        "text": "bloemfontein"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 12"
+      },
+      {
+        "tag": "H3",
+        "text": "AJ & danelle"
+      },
+      {
+        "tag": "H5",
+        "text": "bloemfontein"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 10"
+      },
+      {
+        "tag": "H3",
+        "text": "hj & sulèze"
+      },
+      {
+        "tag": "H5",
+        "text": "bloemfontein"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 12"
+      }
+    ],
+    "paragraphs": [
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "Couples",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "IZAK & ROCHELLE BLOEMFONTEIN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 12",
+        "images": [
+          "assets/images/fashion/IMG_4883-Enhanced-NR-5f64053b-2500.jpg",
+          "assets/images/fashion/IMG_4893-ef580ae8-2500.jpg",
+          "assets/images/fashion/IMG_4747-3d2bb390-2500.jpg",
+          "assets/images/fashion/IMG_4748-cf9c3163-2500.jpg",
+          "assets/images/fashion/IMG_4790-18f8eec1-2500.jpg",
+          "assets/images/fashion/IMG_4776-Enhanced-NR-4a3e6370-2500.jpg",
+          "assets/images/fashion/IMG_4803-f9117d5d-2500.jpg",
+          "assets/images/fashion/IMG_4808-492d728e-2500.jpg",
+          "assets/images/fashion/IMG_4822-1a5fb66d-2500.jpg",
+          "assets/images/fashion/IMG_4852-add387c8-2500.jpg",
+          "assets/images/fashion/IMG_4825-e8e8349e-2500.jpg",
+          "assets/images/fashion/IMG_4842-cd3b69cf-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "AJ & DANELLE BLOEMFONTEIN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 10",
+        "images": [
+          "assets/images/fashion/IMG_3077-ff52d6a1-2500.jpg",
+          "assets/images/fashion/IMG_3092-2-c06a1982-2500.jpg",
+          "assets/images/fashion/IMG_2994-Enhanced-NR-15a40f5b-2500.jpg",
+          "assets/images/fashion/IMG_2990-2-Enhanced-NR-b461494b-2500.jpg",
+          "assets/images/fashion/IMG_3028-Enhanced-NR-f6eac46b-2500.jpg",
+          "assets/images/fashion/IMG_3020-045d4698-2500.jpg",
+          "assets/images/fashion/IMG_3033-Enhanced-NR-52c8d8a4-2500.jpg",
+          "assets/images/fashion/IMG_3043-Enhanced-NR-771b85f5-2500.jpg",
+          "assets/images/fashion/IMG_3052-Enhanced-NR-85ac0706-2500.jpg",
+          "assets/images/fashion/IMG_3060-Enhanced-NR-32dd9b71-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "HJ & SULÈZE BLOEMFONTEIN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 12",
+        "images": [
+          "assets/images/fashion/IMG_5368-26579635-2500.jpg",
+          "assets/images/fashion/IMG_5372-8c800b94-2500.jpg",
+          "assets/images/fashion/IMG_5223-f1312f66-2500.jpg",
+          "assets/images/fashion/IMG_5246-0386ad95-2500.jpg",
+          "assets/images/fashion/IMG_5268-Enhanced-NR-b3baa246-2500.jpg",
+          "assets/images/fashion/IMG_5258-Enhanced-NR-410d20b5-2500.jpg",
+          "assets/images/fashion/IMG_5279-Enhanced-NR-e0c866a5-2500.jpg",
+          "assets/images/fashion/IMG_5283-Enhanced-NR-a5622552-2500.jpg",
+          "assets/images/fashion/IMG_5349-c5195d05-2500.jpg",
+          "assets/images/fashion/IMG_5290-Enhanced-NR-37aedff6-2500.jpg",
+          "assets/images/fashion/IMG_5353-966b99e6-2500.jpg",
+          "assets/images/fashion/IMG_5352-64dc1b15-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-divider page-block ca-background-N4m3Kg",
+        "text": "",
+        "images": []
+      }
+    ]
+  },
+  "/casual/": {
+    "title": "Families",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H1",
+        "text": "Families"
+      },
+      {
+        "tag": "H3",
+        "text": "the le grange girls"
+      },
+      {
+        "tag": "H5",
+        "text": "bloemfontein"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 16"
+      },
+      {
+        "tag": "H3",
+        "text": "the human family"
+      },
+      {
+        "tag": "H5",
+        "text": "stellenbosch"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 9"
+      },
+      {
+        "tag": "H3",
+        "text": "the haasbroek family"
+      },
+      {
+        "tag": "H5",
+        "text": "bloemfontein"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 20"
+      },
+      {
+        "tag": "H3",
+        "text": "the jonker family"
+      },
+      {
+        "tag": "H5",
+        "text": ""
+      },
+      {
+        "tag": "H5",
+        "text": "zithulele, wild coast"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 8"
+      },
+      {
+        "tag": "H3",
+        "text": "when the dogs try to steal the show..."
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 15"
+      }
+    ],
+    "paragraphs": [
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "Families",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "THE LE GRANGE GIRLS BLOEMFONTEIN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 16",
+        "images": [
+          "assets/images/casual/IMG_2724-b7e968e5-2500.jpg",
+          "assets/images/casual/IMG_2887-2-cc86d516-2500.jpg",
+          "assets/images/casual/IMG_2164-5d09ca02-2500.jpg",
+          "assets/images/casual/IMG_2223-a05d0913-2500.jpg",
+          "assets/images/casual/IMG_2244-857a4f5f-2500.jpg",
+          "assets/images/casual/IMG_2245-d996791c-2500.jpg",
+          "assets/images/casual/IMG_2248-8cafd87c-2500.jpg",
+          "assets/images/casual/IMG_2369-e405a7de-2500.jpg",
+          "assets/images/casual/IMG_2379-7c4c8c12-2500.jpg",
+          "assets/images/casual/IMG_2410-599fd143-2500.jpg",
+          "assets/images/casual/IMG_2444-ab2853b0-2500.jpg",
+          "assets/images/casual/IMG_2465-2-1c0291e5-2500.jpg",
+          "assets/images/casual/IMG_2288-7706c1e7-2500.jpg",
+          "assets/images/casual/IMG_2508-b900e060-2500.jpg",
+          "assets/images/casual/IMG_2289-01b6b664-2500.jpg",
+          "assets/images/casual/IMG_2514-efd04f64-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "THE HUMAN FAMILY STELLENBOSCH",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 9",
+        "images": [
+          "assets/images/casual/IMG_3685-7de4080b-2500.jpg",
+          "assets/images/casual/IMG_3600-c12a6c03-2500.jpg",
+          "assets/images/casual/IMG_3546-48acd998-2500.jpg",
+          "assets/images/casual/IMG_3535-2-c1d87da2-2500.jpg",
+          "assets/images/casual/IMG_3628-72534a39-2500.jpg",
+          "assets/images/casual/IMG_3586-bd41cdc3-2500.jpg",
+          "assets/images/casual/IMG_3581-f78e3a7b-2500.jpg",
+          "assets/images/casual/IMG_3528-836887c6-2500.jpg",
+          "assets/images/casual/IMG_3640-9c5b5462-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "THE HAASBROEK FAMILY BLOEMFONTEIN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 20",
+        "images": [
+          "assets/images/casual/IMG_6289-Enhanced-NR-c9a8e1df-2500.jpg",
+          "assets/images/casual/IMG_6292-Enhanced-NR-3b1f632c-2500.jpg",
+          "assets/images/casual/IMG_6150-Enhanced-NR-fd2406bd-2500.jpg",
+          "assets/images/casual/IMG_6165-2-ae56c25e-2500.jpg",
+          "assets/images/casual/IMG_6171-Enhanced-NR-5ce140ad-2500.jpg",
+          "assets/images/casual/IMG_6172-8b859f0f-2500.jpg",
+          "assets/images/casual/IMG_6174-Enhanced-NR-79321dfc-2500.jpg",
+          "assets/images/casual/IMG_6178-Enhanced-NR-bd4ff2f5-2500.jpg",
+          "assets/images/casual/IMG_6182-1c8ab4e5-2500.jpg",
+          "assets/images/casual/IMG_6188-5e0139c5-2500.jpg",
+          "assets/images/casual/IMG_6191-acb6bb36-2500.jpg",
+          "assets/images/casual/IMG_6194-Enhanced-NR-0d73fd26-2500.jpg",
+          "assets/images/casual/IMG_6199-ff736214-2500.jpg",
+          "assets/images/casual/IMG_6214-daa03f45-2500.jpg",
+          "assets/images/casual/IMG_6232-2817bdb6-2500.jpg",
+          "assets/images/casual/IMG_6238-9f6621c1-2500.jpg",
+          "assets/images/casual/IMG_6246-6dd1a332-2500.jpg",
+          "assets/images/casual/IMG_6256-cc14e522-2500.jpg",
+          "assets/images/casual/IMG_6262-2ae62aef-2500.jpg",
+          "assets/images/casual/IMG_6265-9ada253c-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "THE JONKER FAMILY ZITHULELE, WILD COAST",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 8",
+        "images": [
+          "assets/images/casual/IMG_2447-37e46400-2500.jpg",
+          "assets/images/casual/IMG_2452-96212210-2500.jpg",
+          "assets/images/casual/IMG_2364-ee383897-2500.jpg",
+          "assets/images/casual/IMG_2388-4ffd7e87-2500.jpg",
+          "assets/images/casual/IMG_2381-bd4afc74-2500.jpg",
+          "assets/images/casual/IMG_2393-ffc17154-2500.jpg",
+          "assets/images/casual/IMG_2407-25962765-2500.jpg",
+          "assets/images/casual/IMG_2436-d271e288-2500.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "WHEN THE DOGS TRY TO STEAL THE SHOW...",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 15",
+        "images": [
+          "assets/images/casual/148bf3d4250caa42f7df7878c795e5fa-7045998c-2500.jpg",
+          "assets/images/casual/4dd5ba36f338a3934dfc53e3612cca5c-1050da59-2500.jpg",
+          "assets/images/casual/67f7a8fef807e090ecfac16d0d03d5d6-4e1039be-2500.jpg",
+          "assets/images/casual/ca4093e66f3b44ecf8f2891f5aff46b8-ea79b557-2500.jpg",
+          "assets/images/casual/b128b8f8573183980cf939e85ecc912b-4bbcf347-2500.jpg",
+          "assets/images/casual/9fc9ef70c4b165e50d5877f355a83f49-1cd6b40f-2500.jpg",
+          "assets/images/casual/d0f97ec51b5e2d6895e5d5eef2b8507b-b90b71b4-2500.jpg",
+          "assets/images/casual/b3dd4993475c352870357dffa6e827e4-09377e67-2500.jpg",
+          "assets/images/casual/bab9183cb56dcc6f725f70c10f9a857c-fb80fc94-2500.jpg",
+          "assets/images/casual/63654aebcc71f3b3a1e2dc978025a0e5-6bc364ef-2500.jpg",
+          "assets/images/casual/07ace2c5dad7b4be7015143ac20ae7c5-9974e61c-2500.jpg",
+          "assets/images/casual/699564338bfc54ff970917b62cf38eec-ee6136fc-2500.jpg",
+          "assets/images/casual/54cac1d901459a61084d34bd6b92597e-930b52bc-2500.jpg",
+          "assets/images/casual/73ee241b8bf9828c5a2729242f53b33d-82f21b7f-2500.jpg",
+          "assets/images/casual/17740ba1dfd26e95b396773e17a2d086-23375d6f-2500.jpg"
+        ]
+      }
+    ]
+  },
+  "/families-copy/": {
+    "title": "Kitchen teas, Graduations, Events & Other",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H1",
+        "text": "Events, Graduations & Other"
+      },
+      {
+        "tag": "H3",
+        "text": "renette's kitchen tea"
+      },
+      {
+        "tag": "H5",
+        "text": "Bloemfontein"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 22"
+      },
+      {
+        "tag": "H3",
+        "text": "ronel's 50th"
+      },
+      {
+        "tag": "H5",
+        "text": "bloemfontein"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 10"
+      },
+      {
+        "tag": "H3",
+        "text": "Sharonne's 50th"
+      },
+      {
+        "tag": "H5",
+        "text": "cape town"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 15"
+      },
+      {
+        "tag": "H3",
+        "text": "graduations"
+      },
+      {
+        "tag": "H5",
+        "text": "stellenbosch university"
+      },
+      {
+        "tag": "H5",
+        "text": "1 / 31"
+      }
+    ],
+    "paragraphs": [
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "Events, Graduations & Other",
+        "images": []
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-2WKJv2",
+        "text": "RENETTE'S KITCHEN TEA BLOEMFONTEIN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 22",
+        "images": [
+          "assets/images/families-copy/IMG_6121-ec5c3290-1000.jpg",
+          "assets/images/families-copy/IMG_6081-bf2ef673-1000.jpg",
+          "assets/images/families-copy/IMG_5720-2-368eae88-1000.jpg",
+          "assets/images/families-copy/IMG_5430-7e390fe0-1000.jpg",
+          "assets/images/families-copy/IMG_5406-7047a819-1000.jpg",
+          "assets/images/families-copy/IMG_5525-2ac73079-1000.jpg",
+          "assets/images/families-copy/IMG_5612-65cdfdb2-1000.jpg",
+          "assets/images/families-copy/IMG_5802-c408bba2-1000.jpg",
+          "assets/images/families-copy/IMG_5495-d182ee09-1000.jpg",
+          "assets/images/families-copy/IMG_5435-82f02aea-1000.jpg",
+          "assets/images/families-copy/IMG_5527-23356cfa-1000.jpg",
+          "assets/images/families-copy/IMG_5896-5c603d43-1000.jpg",
+          "assets/images/families-copy/IMG_5648-Enhanced-NR-06e631ab-1000.jpg",
+          "assets/images/families-copy/IMG_5751-65fc6a6b-1000.jpg",
+          "assets/images/families-copy/IMG_5638-f451b358-1000.jpg",
+          "assets/images/families-copy/IMG_5721-d5c065b8-1000.jpg",
+          "assets/images/families-copy/IMG_5664-974be898-1000.jpg",
+          "assets/images/families-copy/IMG_5830-2777e74b-1000.jpg",
+          "assets/images/families-copy/IMG_5817-86b2a15b-1000.jpg",
+          "assets/images/families-copy/IMG_5884-2-fda57b53-1000.jpg",
+          "assets/images/families-copy/IMG_6077-aed7bfb0-1000.jpg",
+          "assets/images/families-copy/IMG_6119-1eebb063-1000.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "RONEL'S 50TH BLOEMFONTEIN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 10",
+        "images": [
+          "assets/images/families-copy/IMG_4480-d39f7297-1000.jpg",
+          "assets/images/families-copy/IMG_4599-a04ff313-1000.jpg",
+          "assets/images/families-copy/IMG_4237-6d525603-1000.jpg",
+          "assets/images/families-copy/IMG_4281-cc971013-1000.jpg",
+          "assets/images/families-copy/IMG_4298-1bf3cfb1-1000.jpg",
+          "assets/images/families-copy/IMG_4267-3e2092e0-1000.jpg",
+          "assets/images/families-copy/IMG_4385-c2663b54-1000.jpg",
+          "assets/images/families-copy/IMG_4388-725a3487-1000.jpg",
+          "assets/images/families-copy/IMG_4418-80edb674-1000.jpg",
+          "assets/images/families-copy/IMG_4453-2128f064-1000.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "SHARONNE'S 50TH CAPE TOWN",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 15",
+        "images": [
+          "assets/images/families-copy/IMG_7046-2-c59bd08c-1000.jpg",
+          "assets/images/families-copy/IMG_7033-Enhanced-NR-372c527f-1000.jpg",
+          "assets/images/families-copy/IMG_6370-b29339b4-1000.jpg",
+          "assets/images/families-copy/IMG_6384-4024bb47-1000.jpg",
+          "assets/images/families-copy/IMG_6414-e1e1fd57-1000.jpg",
+          "assets/images/families-copy/IMG_6394-13567fa4-1000.jpg",
+          "assets/images/families-copy/IMG_6486-Enhanced-NR-368522f5-1000.jpg",
+          "assets/images/families-copy/IMG_6532-c432a006-1000.jpg",
+          "assets/images/families-copy/IMG_6652-Enhanced-NR-dca0167a-1000.jpg",
+          "assets/images/families-copy/IMG_6676-Enhanced-NR-6c9c19a9-1000.jpg",
+          "assets/images/families-copy/IMG_6743-Enhanced-NR-9e2b9b5a-1000.jpg",
+          "assets/images/families-copy/IMG_6821-Enhanced-NR-3feedd4a-1000.jpg",
+          "assets/images/families-copy/IMG_6818-Enhanced-NR-cd595fb9-1000.jpg",
+          "assets/images/families-copy/IMG_6843-Enhanced-NR-e88a02e8-1000.jpg",
+          "assets/images/families-copy/IMG_6858-Enhanced-NR-d2b9d4f7-1000.jpg"
+        ]
+      },
+      {
+        "className": "block-container block-single-text page-block ca-background-gLpwag",
+        "text": "GRADUATIONS STELLENBOSCH UNIVERSITY",
+        "images": []
+      },
+      {
+        "className": "block-container block-photo-slider page-block block-container--flushed-top-on-first-rank ca-background-gPk7zN",
+        "text": "1 / 31",
+        "images": [
+          "assets/images/families-copy/IMG_0278-85fb00b4-1000.jpg",
+          "assets/images/families-copy/IMG_9140-d535cda0-1000.jpg",
+          "assets/images/families-copy/IMG_2505-14240a6f-1000.jpg",
+          "assets/images/families-copy/IMG_7587-Enhanced-NR-621e184d-1000.jpg",
+          "assets/images/families-copy/IMG_9052-Enhanced-NR-4ef13368-1000.jpg",
+          "assets/images/families-copy/IMG_9091-bc46b19b-1000.jpg",
+          "assets/images/families-copy/IMG_8080-1c582bcc-1000.jpg",
+          "assets/images/families-copy/IMG_8220-bd9d6ddc-1000.jpg",
+          "assets/images/families-copy/IMG_8226-4f2aef2f-1000.jpg",
+          "assets/images/families-copy/IMG_8470-b755b2b0-1000.jpg",
+          "assets/images/families-copy/IMG_8458-9286efe1-1000.jpg",
+          "assets/images/families-copy/IMG_8534-85a4eb9a-1000.jpg",
+          "assets/images/families-copy/IMG_8486-77136969-1000.jpg",
+          "assets/images/families-copy/IMG_7962-66335563-1000.jpg",
+          "assets/images/families-copy/IMG_7939-9484d790-1000.jpg",
+          "assets/images/families-copy/IMG_8003-2-23f54be7-1000.jpg",
+          "assets/images/families-copy/IMG_1929-f7d441e8-1000.jpg",
+          "assets/images/families-copy/IMG_1582-2-3531b8b3-1000.jpg",
+          "assets/images/families-copy/IMG_1681-77ba3593-1000.jpg",
+          "assets/images/families-copy/IMG_1864-2-850db760-1000.jpg",
+          "assets/images/families-copy/IMG_2802-44296675-1000.jpg",
+          "assets/images/families-copy/IMG_2767-b69ee486-1000.jpg",
+          "assets/images/families-copy/IMG_2872-20f64293-1000.jpg",
+          "assets/images/families-copy/IMG_2929-b18df84c-1000.jpg",
+          "assets/images/families-copy/IMG_0441-23912ed3-1000.jpg",
+          "assets/images/families-copy/IMG_0676-611aa3f3-1000.jpg",
+          "assets/images/families-copy/IMG_0553-93ad2100-1000.jpg",
+          "assets/images/families-copy/IMG_9918-cf411743-1000.jpg",
+          "assets/images/families-copy/IMG_0888-5a7c0f0b-1000.jpg",
+          "assets/images/families-copy/IMG_1369-56cd620c-1000.jpg",
+          "assets/images/families-copy/IMG_1491-e1bcfe7b-1000.jpg"
+        ]
+      }
+    ]
+  },
+  "/contact/": {
+    "title": "Contact",
+    "headings": [
+      {
+        "tag": "H4",
+        "text": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "tag": "H1",
+        "text": "Photography is Poetry"
+      },
+      {
+        "tag": "H2",
+        "text": "Let's Connect"
+      }
+    ],
+    "paragraphs": [
+      "If you are interested in my services, please send me a message!",
+      "I will be happy to help you and see how I can accommodate you in any way.",
+      "© 2026 Van Eck Photography"
+    ],
+    "blocks": [
+      {
+        "className": "block-container block-single-text page-block ca-background-gaKJ4B",
+        "text": "Let's Connect If you are interested in my services, please send me a message! I will be happy to help you and see how I can accommodate you in any way.",
+        "images": []
+      },
+      {
+        "className": "block-container block-contact-form-advanced page-block ca-background-BpQqPN",
+        "text": "YOUR NAME * EMAIL ADDRESS * CONTACT NUMBER * WHAT TYPE OF SESSION ARE YOU LOOKING FOR? * WEDDING ENGAGEMENT COUPLE FAMILY MATERNITY MATRIC DANCE/ FORMAL PARTY KITCHEN TEA BABY SHOWER GRADUATION EVENT/ FUNCTION OTHER DATE (IF APPLICABLE) WHERE / LOCATION (IF APPLICABLE) HOW DID YOU HEAR ABOUT ME? Select option Instagram Ads Facebook Ads Google search From a friend Other MESSAGE * SEND MESSAGE",
+        "images": []
+      }
+    ]
+  }
+}
